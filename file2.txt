@@ -1,2 +1,8 @@
 THIS IS MY FILE 2 
 About to be statged and committed
+
+Added more stuff mine own
+this is not my repo
+but ı want to push
+ı do not have access
+what is easist solution FORK IT
